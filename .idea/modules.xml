@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handlerlib/handlerlib.iml" filepath="$PROJECT_DIR$/handlerlib/handlerlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdClient.iml" filepath="$PROJECT_DIR$/jdClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/touchlib/touchlib.iml" filepath="$PROJECT_DIR$/touchlib/touchlib.iml" />
+    </modules>
+  </component>
+</project>

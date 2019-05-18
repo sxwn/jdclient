@@ -10,12 +10,14 @@
         android:id="@+id/module_activity_shoplist"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+
         <LinearLayout
             android:id="@+id/module_activity_shoplist_ll"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical"
             />
+
     </android.support.v4.widget.NestedScrollView>
 
 </LinearLayout>

@@ -17,10 +17,8 @@ import android.widget.Toast;
  */
 
 public class MainActivity  extends AppCompatActivity{
-
     private NestedScrollView scrollView;
     private LinearLayout ll;
-
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

@@ -25,8 +25,10 @@ public class MainActivity  extends AppCompatActivity{
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         scrollView = (NestedScrollView)findViewById(R.id.module_activity_shoplist);
         ll = (LinearLayout)findViewById(R.id.module_activity_shoplist_ll);
+
         for(int i =0;i<100;i++){
             LinearLayout linearLayout = new LinearLayout(this);
             linearLayout.setLayoutParams(new LinearLayout.LayoutParams
